@@ -1,0 +1,16 @@
+.to-do-form {
+    padding: 25px;
+    max-width: 300px;
+}
+label{
+    margin-right: 10px;
+}
+.form-group{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.items-container{
+    margin-left: 25px;
+    margin-bottom: 25px;
+}

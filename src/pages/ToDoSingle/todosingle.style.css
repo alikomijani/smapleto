@@ -1,0 +1,14 @@
+.to-do-single {
+    margin: 25px;
+    border: 1px solid lightcyan;
+    background-color: aliceblue;
+}
+.header{
+    margin: 15px;
+}
+.items{
+    margin: 30px;
+}
+.item-container{
+    margin-top: 10px;
+}
